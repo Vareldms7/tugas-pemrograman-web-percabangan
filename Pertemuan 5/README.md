@@ -2,9 +2,9 @@
 
 Program web sederhana yang memperlihatkan penggunaan **percabangan** (`if - else if - else`) dan **perulangan** (`for` dan `while`) dengan HTML, CSS, dan JavaScript.
 
-- **Nama:** (isi nama)
-- **NIM:** (isi NIM)
-- **Kelas:** (isi kelas)
+- **Nama:** Varell Dimas Distyan
+- **NIM:** 25533982
+- **Kelas:** D3
 
 ## Struktur File
 
